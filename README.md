@@ -1,6 +1,6 @@
-# typescript-game-sample
+# クッキーパズル
 
-**typescript-game-sample**はTypeScriptでAkashicのゲームを作る際のサンプルプロジェクトです。
+**クッキーパズル**はAcashicEngineとTypeScriptにより作られたニコニコ生放送向けゲームです。
 
 ## 利用方法
 
